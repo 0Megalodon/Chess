@@ -12,7 +12,7 @@ Project mainly focuses on core gameplay mechanics with using command line interf
 `cabal` is required to play the game
 
 ```sh
-$ git clone https://github.com/0Megalodon/Chess.git
+$ git clone https://github.com/thefevzi/Chess.git
 $ cabal build
 $ cabal run chess 1 or cabal run chess 2 <depth>
 ```
